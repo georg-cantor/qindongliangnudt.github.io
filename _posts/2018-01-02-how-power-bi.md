@@ -10,6 +10,9 @@ author: Qindongliang
 
 &emsp;&emsp;Power BI 是一种基于云的商业分析服务，可为你提供最关键业务数据的单一视图。使用实时仪表板监视你的业务运行状况，使用 Power BI Desktop 创建丰富的交互式报告，以及使用本机 Power BI Mobile 应用在旅途中访问你的数据。轻松、快速且免费。
 
+
+
+
 {% raw %}
 ```
 User Name: {{ user.username }}

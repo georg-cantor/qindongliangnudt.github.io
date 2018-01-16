@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Collections
+title: Collections--by HyG
 permalink: /collection/
 icon: bookmark
 type: page
@@ -8,6 +8,8 @@ type: page
 
 * content
 {:toc}
+
+These Collections--by Front-end Dev Engineer [HyG](https://github.com/Gaohaoyang)
 
 ## 工具
 
