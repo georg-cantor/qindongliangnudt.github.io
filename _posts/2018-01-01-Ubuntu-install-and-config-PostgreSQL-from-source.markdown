@@ -7,6 +7,9 @@ tags: PostgreSQL Ubuntu
 author: Qindongliang
 ---
 
+* content
+{:toc}
+
 
 如果是在Windows上安装，可以直接从官网下载最新版的二进制安装包；如果是在MacOS上安装，最佳方式是[使用Homebrew安装最新版]({% post_url 2018-01-16-how-to-install-and-configure-postgresql-on-mac %})。
 
