@@ -7,11 +7,13 @@ tags: PostgreSQL Ubuntu
 author: Qindongliang
 ---
 
-## 0. 背景交代
 
 如果是在Windows上安装，可以直接从官网下载最新版的二进制安装包；如果是在MacOS上安装，最佳方式是[使用Homebrew安装最新版]({% post_url 2018-01-16-how-to-install-and-configure-postgresql-on-mac %})。
 
 Linux下发行版本可以使用相应版本的包管理器来进行安装，但是一般默认的的安装都不是最新版本，想要安装最新版可以官网下载最新的二进制安装包，但是如果给远程服务器安装的话，这种方式就不太方便了。所以本文记录的是以源代码方式给远程Ubuntu16.04服务器安装最新版本的PostgreSQL。
+
+
+
 
 ## 1. 编译安装过程简短介绍
 
