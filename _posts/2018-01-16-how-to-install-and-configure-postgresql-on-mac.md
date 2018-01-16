@@ -7,6 +7,9 @@ tags: PostgreSQL Mac brew
 author: Qindongliang
 ---
 
+* content
+{:toc}
+
 &emsp;&emsp;平时在MacOS上做开发，经常使用PostgreSQL数据库，每次都远程连接不太方便，所以在Mac上安装PostgreSQL。在Ubuntu上推荐从源代码安装。在Mac上，因为brew相当好用，想尝试使用brew安装。首先确认下，brew下的软件包是不是最新的，使用如下命令：
 
 {% highlight Shell %}
