@@ -55,6 +55,9 @@ task :draft do
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
     post.puts "date:"
     post.puts "categories:"
+    post.puts "tags:"
+    post.puts "author: Qindongliang"
+    post.puts "mathjax: false"
     post.puts "---"
   end
 end
